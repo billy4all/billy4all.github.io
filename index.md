@@ -1,36 +1,14 @@
 
-You can use the [editor on GitHub](https://github.com/billy4all/billy4all.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is just a wrap-up page of my main [home-page](https://github.com/billy4all) on GitHub.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is maintined with [Jekyll](https://jekyllrb.com/). from the content in your Markdown files.
 
-### Markdown
+### velest2mat
+Answer these question:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Are you a geophysicist and / or seismologist
+- Are you old enough to know VELEST program?
+- Are you still an user of MATLAB and don't want to change habit right now?
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/billy4all/billy4all.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If so, just fork this useful project to display VELEST runs in a complete GUI in MATLAB
+Click [HERE!](https://github.com/billy4all/velest2mat)
